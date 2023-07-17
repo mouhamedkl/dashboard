@@ -70,7 +70,7 @@ const routes: Routes = [
    {path:'bread',component:BreadcrumbsComponent},
    {path:'badges',component:BadgesComponent},
    {path:'accord',component:AccordionComponent},
-   {path:'alert',component:AlertsComponent}
+   {path:'alert',component:AlertsComponent},
 
 
 
